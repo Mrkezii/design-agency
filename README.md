@@ -1,2 +1,2 @@
-# design-agency
-This is a design agency website.
+# personal-website
+This is my personal website
